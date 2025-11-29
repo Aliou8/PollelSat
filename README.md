@@ -39,7 +39,8 @@ L’objectif est de créer une plateforme expérimentale ouverte, évolutive et 
 ---
 
 ## 🛠️ Technologies utilisées
-
+### Conception 3D
+La conception mécanique du CubeSat 1U est entièrement réalisée sur **Onshape**. Dans un premier temps, il est nécessaire de créer le cadre qui respecte les contraintes du CubeSat (voir la [spécification CubeSat](docs/CubeSatSpecification.pdf)).
 ### 🔧 Hardware
 
 * Microcontrôleur **STM32H7** et **Raspberry PI CM4**

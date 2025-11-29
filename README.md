@@ -42,7 +42,7 @@ L’objectif est de créer une plateforme expérimentale ouverte, évolutive et 
 
 ### Conception 3D
 La conception mécanique du CubeSat 1U est entièrement réalisée sur **Onshape**. Dans un premier temps, il est nécessaire de créer le cadre qui respecte les contraintes du CubeSat (voir la [spécification CubeSat](docs/CubeSatSpecification.pdf)).
-# <img src="3D/Cadre.png" alt="Cadre3D" width="400"/>
+# <img src="3D/Cadre.png" alt="Cadre3D" width="400"/><img src="3D/FacePV.png" alt="FacePV3D" width="400"/>
 
 ### 🔧 Hardware
 

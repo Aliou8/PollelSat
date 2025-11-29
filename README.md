@@ -1,3 +1,5 @@
+# <img src="TON_URL_DE_LOGO_ICI" alt="PollelSat Logo" width="160"/>
+
 ![Version](https://img.shields.io/badge/Version-1.11.25-blue)
 ![License](https://img.shields.io/badge/License-GNU_GPL_v3-green)
 
@@ -40,10 +42,10 @@ L’objectif est de créer une plateforme expérimentale ouverte, évolutive et 
 
 ### 🔧 Hardware
 
-* Microcontrôleur **STM32H7** et ** Raspberry PI CM4**
+* Microcontrôleur **STM32H7** et **Raspberry PI CM4**
 * Capteurs IMU, caméras et modules de télécommunication
 * Systèmes d’alimentation **Battery** + **PV**
-* Systeme Radio **CC1312R1** à 915MHz
+* Systeme Radio **CC1312R1** à 915 MHz
 
 ### 💻 Software
 
@@ -59,7 +61,7 @@ L’objectif est de créer une plateforme expérimentale ouverte, évolutive et 
 * [ ] Prototype des premiers PCB
 * [ ] Développement firmware de base
 * [ ] Système de télécommunication minimal
-* [ ] Tests thermiques & vibration 
+* [ ] Tests thermiques & vibration
 
 ---
 
@@ -75,6 +77,3 @@ Merci de suivre les pull requests et issues du dépôt.
 **GNU GPL v3**
 Ce projet est open-source et distribué sous licence GNU GPL version 3.
 Vous êtes libre de l’utiliser, le modifier et le redistribuer tant que la licence reste préservée.
-
----
-Tu veux que je génère aussi la **badge de version**, le **logo**, ou un **CHANGELOG.md** ?

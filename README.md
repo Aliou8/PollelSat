@@ -49,7 +49,15 @@ La conception mécanique du CubeSat 1U est entièrement réalisée sur **Onshape
 * Microcontrôleur **STM32H7** et **Raspberry PI CM4**
 * Capteurs IMU, caméras et modules de télécommunication
 * Systèmes d’alimentation **Battery** + **PV**
+   | Composant       | Png | Schéma      |
+  |:-----------|:---:|------------:|
+  |  EPS     | <img src="hardware/EPS/EPS.png" alt="EPS" width="160"/>  | [Kicad_sch](hardware/EPS/eps.pdf) |
+  |  Battery     | <img src="hardware/BatteryConnector.png" alt="BATT" width="160"/>  | [Kicad_sch](hardware/BatteryConnector.pdf) |
+
 * Systeme Radio **CC1312R1** à 915 MHz
+  | Composant       | Png | Schéma      |
+  |:-----------|:---:|------------:|
+  |  Radio   | <img src="hardware/RADIO/radio.png" alt="EPS" width="160"/>  | [Kicad_sch](hardware/RADIO/radio.pdf) |
 
 ### 💻 Software
 

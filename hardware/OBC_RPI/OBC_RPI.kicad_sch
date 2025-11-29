@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "dfb47db9-8e00-4368-9c30-683099100faf")
+	(paper "A4")
+	(title_block
+		(title "CubeSat")
+		(date "2025-11-21")
+		(rev "0.0.1")
+		(company "PollelSAT")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
